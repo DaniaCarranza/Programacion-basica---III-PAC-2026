@@ -93,8 +93,7 @@ int main() {
         } else {
             cout << "Reprobado\n";
         }
-    }
-
+    
     cout << "\nFin del programa de notas.\n";
     return 0;
-}
+    }

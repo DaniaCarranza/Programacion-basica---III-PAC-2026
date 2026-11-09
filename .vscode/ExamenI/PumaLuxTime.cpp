@@ -7,7 +7,7 @@ using namespace std;
 
 // ======================================================
 // PUMA LUX TIME - JOYERIA Y ACCESORIOS
-// Programacion Basica - Sin vectores ni matrices
+//           Programacion Basica 
 // ======================================================
 
 // Inventario inicial

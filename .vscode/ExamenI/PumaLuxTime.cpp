@@ -2,6 +2,8 @@
 #include <string>
 #include <iomanip>
 using namespace std;
+//Dania Maricela Carranza Salgado
+//20181007873
 
 // ======================================================
 // PUMA LUX TIME - JOYERIA Y ACCESORIOS
